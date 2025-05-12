@@ -17,3 +17,6 @@ Identify key factors influencing customer churn and recommend strategies to redu
 - Internet service (especially Fiber optic) users show higher churn risk, particularly those lacking online security, tech support, online backup or device protection.
 - Customers paying via electronic check have higher churn probability  
 - Service-related features have stronger impact on churn than demographic features
+
+## View the Jupyter Notebook
+- The notebook can be previewed directly on GitHub (along with outputs and graphs). Just navigate to the repository and open the `telco-customer-churn-analysis.ipynb` file by clicking on it.
