@@ -5,12 +5,26 @@ This project focuses on analyzing customer churn for a telecommunications compan
 ## Objective  
 Identify key factors influencing customer churn and recommend strategies to reduce churn.
 
+## Dataset  
+- **Source**: [IBM Sample Data Sets (via Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+- This dataset is provided by IBM and publicly available on Kaggle.  
+- After downloading, rename the file to: `TelcoCustomerChurn.csv`  
+- Place it in the same directory as the notebook: `Telco_Customer_Churn.ipynb`  
+- For a detailed description of the dataset (columns, data types, etc.), please refer to the notebook.
+
 ## Methodology  
 - Understanding the dataset
 - Data Cleaning and Preprocessing
 - Univariate and bivariate analysis  
 - Feature engineering  
 - Key insights and recommendations
+
+## Tools Used  
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- JupyterLab
 
 ## Key Insights  
 - Customers with month-to-month contracts and short tenure are more likely to churn  
